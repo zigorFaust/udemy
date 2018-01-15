@@ -3,6 +3,4 @@
 * New readme
 * New file
   * What an intend
-  
-Changes on remote branch
-More changes
+  Changes on GitHub remote
